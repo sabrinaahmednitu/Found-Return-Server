@@ -8,15 +8,6 @@ This guide provides a detailed step-by-step process to clone, install, configure
 
 # Installation Guide
 
-## **1. Clone the Project Repository**
-
-First, you need to clone the project repository from your version control platform (e.g., GitHub, GitLab).
-
-Open your terminal and execute the following command:
-
-```bash
-git clone <repository-url>
-```
 
 Replace `<repository-url>` with the actual URL of your repository.
 
