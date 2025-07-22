@@ -76,3 +76,11 @@ export const ItemServices = {
   updateItemInDB,
   deleteItemFromDB,
 };
+//duplicate of this 
+// export const ItemServices = {
+//   createItemIntoDB,
+//   getAllItemsFromDB,
+//   getItemFromDB,
+//   updateItemInDB,
+//   deleteItemFromDB,
+// };
